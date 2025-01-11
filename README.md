@@ -18,5 +18,6 @@ This project demonstrates a simple serverless application using AWS Lambda and A
 ## Technologies Used
 - AWS Lambda
 - API Gateway
+- Postman Tool
 
 
