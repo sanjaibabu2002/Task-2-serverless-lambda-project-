@@ -3,7 +3,7 @@
 **ID:** CT08DKP
 **Domain:** CLOUD COMPUTING
 **Duration:** December 12th, 2024 to January 12th, 2025 
-**Mentor:** SRAVANI GOUNI
+**Mentor:** Neela Santhosh Kumar
 
 # serverless-lambda-project
 ## Description
