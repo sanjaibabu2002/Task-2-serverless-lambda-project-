@@ -5,6 +5,7 @@
 **Duration:** December 12th, 2024 to January 12th, 2025 
 **Mentor:** Neela Santhosh Kumar
 
+
 # serverless-lambda-project
 ## Description
 This project demonstrates a simple serverless application using AWS Lambda and API Gateway.
@@ -17,4 +18,5 @@ This project demonstrates a simple serverless application using AWS Lambda and A
 ## Technologies Used
 - AWS Lambda
 - API Gateway
+
 
