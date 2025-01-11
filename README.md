@@ -14,6 +14,7 @@ This project demonstrates a simple serverless application using AWS Lambda and A
 1. Create a Lambda function in AWS.
 2. Set up API Gateway to trigger the Lambda function.
 3. Deploy the API and test the endpoint.
+4. Test in Postman Tool
 
 ## Technologies Used
 - AWS Lambda
